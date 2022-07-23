@@ -1,3 +1,3 @@
 # beraltrader
-Registros gráficos:
+meus registros gráficos por mês:
 
