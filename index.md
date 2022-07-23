@@ -1,1 +1,3 @@
 BERALTRADER
+Meus registros gráficos.
+
